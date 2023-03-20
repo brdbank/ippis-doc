@@ -25,7 +25,8 @@ where {{national_id_number}} is the national ID number of the beneficiary to be 
 
 ## Headers
 
-The API requires basic authentication. Pass the authentication token in the header as Authorization.
+The API requires basic authentication. Pass the authentication token in the header as Authorization. The username and password will be provided separately by the API provider (Minuza).
+
 
 ## Example Request
 
