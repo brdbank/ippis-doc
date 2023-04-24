@@ -84,14 +84,14 @@ The response is a JSON object with the following format:
 	"status": 200,
 	"message": "Minuza Beneficiary Status",
 	"data": {
-		"postName": "Jean Luc",
-		"surName": "Karangwa",
-		"nationalIdSearched": "1199696306486",
-		"nationalId": "1199696306486678",
+		"postName": "xxx xxx",
+		"surName": "xxxx",
+		"nationalIdSearched": "xxxxxxxx",
+		"nationalId": "xxxxxxxx",
 		"currency": "RWF",
-		"totalLoanAmount": 6355954,
-		"remainingLoanAmount": 4790896,
-		"totalPaid": 1565058
+		"totalLoanAmount": xxxxxx,
+		"remainingLoanAmount": xxxxxxx,
+		"totalPaid": xxxxxxx
 	}
 }
 ```
