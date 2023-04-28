@@ -46,7 +46,7 @@ This endpoint will allow allow you to receive an autentication tocken for each o
 ```
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-`/api/payments/ippis`
+`/api/payments/ipps`
 
 ## HTTP Method
 
